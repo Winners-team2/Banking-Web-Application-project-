@@ -15,3 +15,5 @@ and how to properly fix them.
 ## Project Documents
 - 📄 [Project Proposal](./PROJECT%20PROPOSAL-%20team2-Updated.pdf)
 - 📅 [Project Management Plan](./Project%20Management%20Plan-Updated.pdf)
+## Backend - Authentication & Security Module
+🔗 [AuthSystem-Backend](https://github.com/Winners-team2/AuthSystem-Backend)
