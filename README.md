@@ -17,3 +17,5 @@ and how to properly fix them.
 - 📅 [Project Management Plan](./Project%20Management%20Plan-Updated.pdf)
 ## Backend - Authentication & Security Module
 🔗 [AuthSystem-Backend](https://github.com/Winners-team2/AuthSystem-Backend)
+## Backend - Core Banking Features
+- [Core-Banking-Features-Backend](https://github.com/Winners-team2/Core-Banking-Features-Backend)
