@@ -18,8 +18,4 @@ and how to properly fix them.
 ## Backend - Authentication & Security Module
 🔗 [AuthSystem-Backend](https://github.com/Winners-team2/AuthSystem-Backend)
 ## Backend - Core Banking Features
-- [Core-Banking-Features-Backend](https://github.com/Winners-team2/Core-Banking-Features-Backend)
-## Backend - Authentication & Security Module
-🔗 [AuthSystem-Backend](https://github.com/Winners-team2/AuthSystem-Backend)
-## Backend - Core Banking Features
-- [Core-Banking-Features-Backend](https://github.com/Winners-team2/Core-Banking-Features-Backend)
+🔗 [Core-Banking-Features-Backend](https://github.com/Winners-team2/Core-Banking-Features-Backend)
